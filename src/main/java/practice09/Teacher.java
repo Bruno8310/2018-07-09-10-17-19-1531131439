@@ -12,6 +12,7 @@ public class Teacher extends Person{
         super(id, name, age);
     }
 
+    
     public Klass getKlass() {
         return klass;
     }
